@@ -8,11 +8,13 @@ public class Addition {
 	public static void main(String[] args) {
 		 Addition a = new Addition();
 		 Substraction sub = new Substraction();
-		 	a.Addition();
+		 Multplication mul = new Multplication();
+		 a.Addition1();
 		 	sub.sub();
+		 	mul.Mul();
 		
 	}
-	public void Addition() {
+	public void Addition1() {
 		
 		System.out.println( "Sum ="+(a+b));
 		
