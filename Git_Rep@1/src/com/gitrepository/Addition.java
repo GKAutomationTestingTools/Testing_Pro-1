@@ -12,6 +12,7 @@ public class Addition {
 		 a.Addition1();
 		 	sub.sub();
 		 	mul.Mul();
+		 	System.out.println(" testing 01 emp ");
 		
 	}
 	public void Addition1() {
