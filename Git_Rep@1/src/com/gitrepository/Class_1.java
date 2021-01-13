@@ -9,7 +9,7 @@ public class Class_1 {
 		System.out.println("  Test  ");
 		
 		System.out.println("  Test 01 ");
-		System.out.println("  Test   02 ");
+		System.out.println("  Test   02 edit ");
 		
 	}
 
